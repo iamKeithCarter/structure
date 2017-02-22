@@ -1,0 +1,1 @@
+These are practice files for the Html and CSS challenges.
